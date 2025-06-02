@@ -1,0 +1,5 @@
+fastapi==0.115.12
+prometheus_client==0.22.0
+python-dotenv==1.1.0
+supabase==2.15.2
+uvicorn==0.34.2

@@ -1,0 +1,21 @@
+========== API Request Metrics ==========
+
+API Requests Stats
+-------------------
+# HELP api_request_total Total API requests
+# TYPE api_request_total counter
+api_request_total 0.0
+
+=======================================
+
+----
+Script Stop Time : Wed, May 28, 2025 10:03:06 PM
+Script started at Wed, May 28, 2025 10:03:07 PM
+Performing startup tasks...
+❌ Service DOWN! Triggering alert...
+----
+❌ Service DOWN! Triggering alert...
+----
+❌ Service DOWN! Triggering alert...
+----
+Script Stop Time : Wed, May 28, 2025 10:03:37 PM
