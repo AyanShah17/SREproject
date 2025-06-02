@@ -108,9 +108,8 @@ curl http://localhost:8000
 
 - The scripts/ directory contains helpful bash scripts to automate common tasks:
 
-- scripts/run.sh – Script to set up environment and run the FastAPI app locally.
-
-- scripts/docker-run.sh – Script to build the Docker image and run the container.
+- scripts/metrics.sh – Script to start the No. of visiting of client and run the logging of the Visits.
+- scripts/monitor.sh – Script to start the monitoring of Prometheus_client UPTIME and run the logging of the UPTIME.
 
 ### To execute these scripts:
 ```bash
